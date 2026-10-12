@@ -1,4 +1,4 @@
-# B.Y.T.E. Cyber Security Task Writeups
+# B.Y.T.E. Cyber Security Task Submission
 
-Writeups & relevant files for the 3 categories - Crypto, Steg, Binary Exp\
+relevant files for the 3 categories - Crypto, Steg, Binary Exp\
 W resource -> [here](https://wiki.athena-ctf.com/)
